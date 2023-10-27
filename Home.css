@@ -1,0 +1,76 @@
+body{
+background-image:url('ZiegenHainy.png');
+background-size:100%;
+background-attachment: fixed;
+}
+h1{
+font-family:calibri;
+color:white;
+background-color:rgba(0,0,0,0.7);}
+a{
+color:white;
+font-family:calibri;
+font-weight:bold;
+font-size:200%;
+}
+.navi
+{
+position:sticky;
+left: 3%;
+top: 5%;
+border: 10px groove gray;
+width: 250px;
+background-color:rgba(0,0,0,0.5)
+}
+.Main
+{
+color:white;
+font-family:calibri;
+font-size:150%;
+background-color:rgba(0,0,0,0.3);
+width: 60%;
+}
+.News
+{
+position:absolute;
+top:85px;
+right: 5%;
+width: 30%;
+border: 10px groove black;
+background-color:rgba(0,0,0,0.7);
+color:white;
+font-family:calibri;
+font-size:150%;
+}
+.NewsTitle
+{
+font-weight:bold;
+font-size:150%;
+}
+.Newsline
+{
+font-weight:bold;
+font-size:130%;
+}
+.Foot{
+position:fixed;
+bottom:0px;
+color:white;
+font-family:calibri;
+background-color:rgba(0,0,0,0.5);
+width:100%;
+text-align:center;
+left:0px;
+}
+.button {
+  background-color:rgba(0,0,0,0.7);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  font-family: calibri;
+  font-weight:bold;
+}
