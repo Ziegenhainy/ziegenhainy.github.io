@@ -1,0 +1,18 @@
+body{
+    font-family:helvetica;
+    background-color: black;
+    color:white;
+}
+h1{
+    font-weight: bolder
+}
+.Image
+{
+width:auto;
+float:left;
+height: 40%;
+}
+img
+{
+    height:90%
+}
