@@ -1,18 +1,23 @@
 body{
-    font-family:helvetica;
+    font-family: helvetica;
     background-color: black;
     color:white;
 }
 h1{
     font-weight: bolder
 }
+.ImageContainer
+{
+    display:flex;
+    flex-wrap: wrap;
+}
 .Image
 {
-width:auto;
-float:left;
-height: 40%;
+    box-sizing:border-box;
 }
 img
 {
-    height:90%
+    height:40vh;
+    width:auto;
+    display: block;
 }
