@@ -1,23 +1,24 @@
-body{
+body {
     font-family: helvetica;
     background-color: black;
-    color:white;
+    color: white;
 }
-h1{
+
+h1 {
     font-weight: bolder
 }
-.ImageContainer
-{
-    display:flex;
+
+.ImageContainer {
+    display: flex;
     flex-wrap: wrap;
 }
-.Image
-{
-    box-sizing:border-box;
+
+.Image {
+    box-sizing: border-box;
 }
-img
-{
-    height:40vh;
-    width:auto;
+
+img {
+    height: 40vh;
+    width: auto;
     display: block;
 }

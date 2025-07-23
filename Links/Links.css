@@ -1,31 +1,41 @@
-body{background-image: url('ZiegenHainy.png'); background-size:100%; background-attachment: fixed;}
-h1{
-font-family:calibri;
-color:white;
-background-color:rgba(0,0,0,0.7);}
-a{
-background-color:rgba(0.2,0.2,0.2,0.6);
-color:white;
-font-family:calibri;
-font-weight:bold;
+body {
+    background-image: url('ZiegenHainy.png');
+    background-size: 100%;
+    background-attachment: fixed;
 }
-.zelda{
-width: 260px;
-height: 100px;
-border: 3px black;
-margin: auto;
-font-size: 50px;
+
+h1 {
+    font-family: calibri;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
 }
-.link{
-text-align:center;
+
+a {
+    background-color: rgba(0.2, 0.2, 0.2, 0.6);
+    color: white;
+    font-family: calibri;
+    font-weight: bold;
 }
-.Foot{
-position:fixed;
-bottom:0px;
-color:white;
-font-family:calibri;
-background-color:rgba(0,0,0,0.5);
-width:100%;
-text-align:center;
-left:0px;
+
+.zelda {
+    width: 260px;
+    height: 100px;
+    border: 3px black;
+    margin: auto;
+    font-size: 50px;
+}
+
+.link {
+    text-align: center;
+}
+
+.Foot {
+    position: fixed;
+    bottom: 0px;
+    color: white;
+    font-family: calibri;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    text-align: center;
+    left: 0px;
 }
