@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1{
+    width:max-content
+}
+
+.header input{
+    height:max-content;
+}
