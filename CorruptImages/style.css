@@ -8,6 +8,10 @@ h1 {
     font-weight: bolder
 }
 
+h1 a{
+    color:rgb(6, 6, 6);
+}
+
 #imagePreviewContainer {
     display: flex;
     align-items: center;
