@@ -1,0 +1,10 @@
+* {
+    background-color:rgb(87, 58, 192);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#backBtn {
+    text-decoration: none;
+    color:rgb(72, 48, 159)
+}
