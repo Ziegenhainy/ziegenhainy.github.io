@@ -1,5 +1,5 @@
-* {
-    animation: 3s linear infinite normal colorChange;
+body {
+    animation: 10s linear infinite normal colorChange;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
@@ -29,4 +29,18 @@
 #backBtn {
     text-decoration: none;
     color:rgba(0,0,0,0.1)
+}
+
+#gayBtn {
+    text-decoration: none;
+    color:rgba(0,0,0,0.05)
+}
+
+.gay {
+    animation: 0.3s linear infinite normal colorChange;
+}
+
+#epilepsyWarning {
+    font-size: 5em;
+    font-weight: 900;
 }

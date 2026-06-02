@@ -18,4 +18,12 @@ function Pronouns() {
     setTimeout(Pronouns,500)
 }
 
+function gayMode() {
+    epilepsyWarning.innerHTML = "Epilepsy Warning!!!";
+    setTimeout(()=>{
+        pronounBody.classList.add("gay");
+        epilepsyWarning.innerHTML = "";
+    }, 5000)
+}
+
 Pronouns()
