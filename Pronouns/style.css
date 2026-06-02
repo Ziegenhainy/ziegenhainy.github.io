@@ -1,10 +1,32 @@
 * {
-    background-color:#573ac0;
+    animation: 3s linear infinite normal colorChange;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
+@keyframes colorChange {
+    0% {
+        background-color: #573ac0;
+    }
+
+    25% {
+        background-color: #39bf99;
+    }
+
+    50% {
+        background-color: #a2bf39;
+    }
+
+    75% {
+        background-color: #bf395f;
+    }
+
+    100% {
+        background-color: #573ac0;
+    }
+}
+
 #backBtn {
     text-decoration: none;
-    color:rgb(72, 48, 159)
+    color:rgba(0,0,0,0.1)
 }
