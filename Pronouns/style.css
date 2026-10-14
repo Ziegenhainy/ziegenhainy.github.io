@@ -6,23 +6,19 @@ body {
 
 @keyframes colorChange {
     0% {
-        background-color: #573ac0;
+        background-color: #ffc9f1;
     }
 
-    25% {
-        background-color: #39bf99;
+    33% {
+        background-color: #86f1ff;
     }
 
-    50% {
-        background-color: #a2bf39;
+    66% {
+        background-color: #e6e6e6;
     }
-
-    75% {
-        background-color: #bf395f;
-    }
-
+    
     100% {
-        background-color: #573ac0;
+        background-color: #ffc9f1;
     }
 }
 
